@@ -3,7 +3,7 @@ This is a timer.
 
 若干長い分
 
-自分が厨1だったのでGoogle Playに出せなかったTimerアプリです。
+自分が中1だったのでGoogle Playに出せなかったTimerアプリです。
 
 まあ、
 
